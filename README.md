@@ -2,7 +2,7 @@
 
 Hi All,
 
-In this Project I have answered several businees questions with the help of SQL Queries.
+In this Project I have answered several business questions with the help of SQL Queries.
 
 In Ig_Clone Database we have 7 tables(comments,follows,likes,photo_tags,photos,tags,users).
 
